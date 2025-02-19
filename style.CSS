@@ -1,4 +1,4 @@
-/* Reset general de estilos */
+
 * {
     margin: 0;
     padding: 0;
@@ -12,14 +12,14 @@ body {
     line-height: 1.6;
 }
 
-/* Contenedor general para limitar el ancho */
+
 .container {
     width: 90%;
     max-width: 1200px;
     margin: 0 auto;
 }
 
-/* Estilo para el header y el menú */
+
 header {
     background-color: #333;
     color: white;
@@ -47,7 +47,7 @@ nav ul.menu li a:hover {
     color: #f1c40f;
 }
 
-/* Estilo para el perfil */
+
 .perfil {
     display: flex;
     align-items: center;
@@ -81,7 +81,7 @@ nav ul.menu li a:hover {
     color: #666;
 }
 
-/* Secciones de Experiencia, Educación y Contacto */
+
 section {
     margin: 40px 0;
 }
@@ -124,7 +124,6 @@ h2 {
     color: #f1c40f;
 }
 
-/* Estilo para el footer */
 footer {
     background-color: #333;
     color: white;
